@@ -59,7 +59,7 @@ def index(request):
 : client의 request > urls.py > views.py > models.py > template(html) > views.py > response to client (html 문서 한장)
 
 * MVC 패턴 (model - view - controller)
- - model : database
- - view : display (UI), html
- - controller : 둘 사이 
+     - model : database
+     - view : display (UI), html
+     - controller : 둘 사이 
  (MTV > model , template(html) , view : MVC와 같은 순서)
